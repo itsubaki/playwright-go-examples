@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/url"
 
-	"github.com/itsubaki/playwright-go-training/google"
+	"github.com/itsubaki/playwright-go-examples/google"
 )
 
 func ExampleGoogle_Text() {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/itsubaki/playwright-go-training/hackernews"
+	"github.com/itsubaki/playwright-go-examples/hackernews"
 )
 
 func ExampleHackernews_Title() {
